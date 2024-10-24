@@ -1,0 +1,6 @@
+site_name: My MkDocs Site
+site_url: https://lingyaw.github.io/mkdocs-sample/
+theme:
+  name: material
+nav:
+  - Home: index.md
